@@ -1,4 +1,8 @@
-## Hi there 👋
+## 👋, 🌎
+🔭 I’m currently working on my portfolio website
+<br><br>
+
+[![UltimateGG's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=UltimateGG&layout=donut&theme=midnight-purple)](https://github.com/UltimateGG)
 
 <!--
 **UltimateGG/UltimateGG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
